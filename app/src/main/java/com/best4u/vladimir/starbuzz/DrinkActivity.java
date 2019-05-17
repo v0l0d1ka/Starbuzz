@@ -12,4 +12,5 @@ public class DrinkActivity extends Activity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_drink);
     }
+    //for first commit just added
 }
