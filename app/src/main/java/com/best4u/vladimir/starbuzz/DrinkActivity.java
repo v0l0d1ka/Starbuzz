@@ -29,6 +29,7 @@ public class DrinkActivity extends Activity {
         photo.setImageResource(drink.getImageResourceId());
         photo.setContentDescription(drink.getName());
 
+
     }
 
 }
